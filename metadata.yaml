@@ -1,5 +1,5 @@
 _repo: An-Everyday-Girl-A-Story_56725
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Merrill, Frank T.
@@ -9,6 +9,9 @@ contributor:
     birthdate: 1848
     gutenberg_agent_id: '6202'
     url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 56725-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56725#An-Everyday-Girl-A-Story
 gutenberg_issued: '2018-03-12'
 gutenberg_type: Text
 identifiers:
